@@ -1,0 +1,13 @@
+We had used the Linear Regression Model to identify the "Price" of the house.
+
+We had used the common data, in which,
+60% of the data is used for training the model with Linear Regression Model.
+40% of the data remaining is used for testing the created & trained model.
+
+Inorder to identify the accuracy of the model, following parameters has been identified:
+
+regression co-efficient.
+MAE
+MSE
+RMSE
+R-Square (R2 score)
